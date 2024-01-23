@@ -1,0 +1,382 @@
+<--- INICIO --->
+        [  REX -> DM  ] Job (rex) finished at 23/01/2024 00:15:08 done in 3s
+[  POR  ] Job finished at 23/01/2024 00:30:59 done in 54s
+[  FRA  ] Job finished at 23/01/2024 01:16:32 done in 1m 27s
+[  GER  ] Job finished at 23/01/2024 02:01:31 done in 1m 26s
+    [  CLI  ] LaLiga+ BARES · Job finished at 23/01/2024 02:25
+    [  CLI  ] LaLiga TV BAR · Job finished at 23/01/2024 02:25
+    [  CLI  ] LaLiga TV BAR 2 · Job finished at 23/01/2024 02:25
+    [  CLI  ] LaLiga TV BAR 3 · Job finished at 23/01/2024 02:25
+    [  CLI  ] LaLiga TV BAR 4 · Job finished at 23/01/2024 02:25
+    [  CLI  ] DAZN BAR 1 · Job finished at 23/01/2024 02:25
+    [  CLI  ] DAZN BAR 2 · Job finished at 23/01/2024 02:25
+    [  CLI  ] Moto ADV · Job finished at 23/01/2024 02:25
+    [  CLI  ] DBike · Job finished at 23/01/2024 02:25
+    [  CLI  ] Iberalia pesca · Job finished at 23/01/2024 02:25
+    [  CLI  ] Iberalia caza · Job finished at 23/01/2024 02:25
+    [  CLI  ] Torolé TV · Job finished at 23/01/2024 02:25
+    [  CLI  ] Global Telenovelas · Job finished at 23/01/2024 02:25
+    [  CLI  ] Global Tendencias · Job finished at 23/01/2024 02:25
+    [  CLI  ] Fight Time · Job finished at 23/01/2024 02:25
+    [  CLI  ] CyL7 · Job finished at 23/01/2024 02:25
+    [  CLI  ] CyL8 · Job finished at 23/01/2024 02:25
+    [  CLI  ] Montilla TV · Job finished at 23/01/2024 02:26
+    [  CLI  ] Vivir Torredelcampo TV · Job finished at 23/01/2024 02:26
+    [  CLI  ] Vicomartele · Job finished at 23/01/2024 02:26
+    [  CLI  ] TV Murciana · Job finished at 23/01/2024 02:26
+    [  CLI  ] Náutica TV · Job finished at 23/01/2024 02:26
+    [  CLI  ] Madinfor TV · Job finished at 23/01/2024 02:26
+    [  CLI  ] Antena Motor · Job finished at 23/01/2024 02:26
+    [  ZAP  ] Escapa TV · Job finished at 23/01/2024 02:26
+    [  ZAP  ] REKTV · Job finished at 23/01/2024 02:26
+    [  ZAP  ] tlnovelas · Job finished at 23/01/2024 02:26
+    [  ZAP  ] PTV Malaga · Job finished at 23/01/2024 02:26
+    [  ZAP  ] PTV Cordoba · Job finished at 23/01/2024 02:26
+    [  ZAP  ] PTV Granada · Job finished at 23/01/2024 02:26
+    [  ZAP  ] PTV Sevilla · Job finished at 23/01/2024 02:26
+    [  ZAP  ] PTV Linares · Job finished at 23/01/2024 02:26
+    [  ZAP  ] PTV Almeria · Job finished at 23/01/2024 02:26
+    [  MAN  ] fef · Job finished at 23/01/2024 02:26
+    [  MAN  ] ligaf · Job finished at 23/01/2024 02:26
+      [  TIV  ] laligainside · Job finished at 23/01/2024 02:35:16 done in 2s
+      [  TIV  ] laligaplus · Job finished at 23/01/2024 02:35:27 done in 1s
+      [  TIV  ] lamediainglesa · Job finished at 23/01/2024 02:35:43 done in 7s
+      [  TIV  ] mundotoro · Job finished at 23/01/2024 02:35:57 done in 5s
+      [  TIV  ] fueltv · Job finished at 23/01/2024 02:36:25 done in 18s
+      [  TIV  ] mmatv · Job finished at 23/01/2024 02:36:42 done in 8s
+      [  TIV  ] THEJUMPLIVE · Job finished at 23/01/2024 02:37:57 done in 1m 6s
+      [  TIV  ] happitv · Job finished at 23/01/2024 02:38:38 done in 31s
+      [  TIV  ] sin_filtros · Job finished at 23/01/2024 02:39:36 done in 48s
+      [  TIV  ] WATERBEAR · Job finished at 23/01/2024 02:39:53 done in 7s
+      [  TIV  ] trace_brazuca · Job finished at 23/01/2024 02:40:11 done in 9s
+      [  TIV  ] QELLO · Job finished at 23/01/2024 02:40:21 done in 1s
+      [  TIV  ] now90s · Job finished at 23/01/2024 02:40:34 done in 4s
+      [  TIV  ] now70s · Job finished at 23/01/2024 02:40:46 done in 3s
+      [  TIV  ] now80s · Job finished at 23/01/2024 02:40:58 done in 3s
+      [  TIV  ] JAZZ · Job finished at 23/01/2024 02:41:20 done in 13s
+      [  TIV  ] azcinema · Job finished at 23/01/2024 02:41:34 done in 5s
+      [  TIV  ] azclic · Job finished at 23/01/2024 02:41:58 done in 15s
+      [  TIV  ] azcorazon · Job finished at 23/01/2024 02:42:11 done in 4s
+      [  TIV  ] aztecainternacional · Job finished at 23/01/2024 02:42:26 done in 6s
+      [  TIV  ] 13cultura · Job finished at 23/01/2024 02:42:49 done in 14s
+      [  TIV  ] 13entretencion · Job finished at 23/01/2024 02:43:10 done in 12s
+      [  TIV  ] film_and_co · Job finished at 23/01/2024 02:43:25 done in 5s
+      [  TIV  ] FR_NOVELAS · Job finished at 23/01/2024 02:43:41 done in 7s
+      [  TIV  ] FRIKI · Job finished at 23/01/2024 02:43:54 done in 4s
+      [  TIV  ] lacorriente · Job finished at 23/01/2024 02:44:07 done in 4s
+      [  TIV  ] lovenature · Job finished at 23/01/2024 02:44:25 done in 9s
+      [  TIV  ] lovewine · Job finished at 23/01/2024 02:44:42 done in 9s
+      [  TIV  ] lovetvtrailers · Job finished at 23/01/2024 02:45:08 done in 17s
+      [  TIV  ] oficios_perdidos · Job finished at 23/01/2024 02:45:49 done in 32s
+      [  TIV  ] el_pais · Job finished at 23/01/2024 02:46:23 done in 24s
+      [  TIV  ] elconfidencial · Job finished at 23/01/2024 02:46:51 done in 20s
+      [  TIV  ] nesting · Job finished at 23/01/2024 02:47:14 done in 14s
+      [  TIV  ] ADU05 · Job finished at 23/01/2024 02:47:28 done in 4s
+      [  TIV  ] ADU06 · Job finished at 23/01/2024 02:47:40 done in 3s
+      [  TIV  ] satenclassy · Job finished at 23/01/2024 02:47:53 done in 4s
+      [  TIV  ] satentitanes · Job finished at 23/01/2024 02:48:05 done in 3s
+      [  TIV  ] satenluxury · Job finished at 23/01/2024 02:48:17 done in 3s
+      [  TIV  ] saten100espanol · Job finished at 23/01/2024 02:48:29 done in 3s
+[  O1  ] Job finished at 23/01/2024 03:18:12 done in 3m 8s
+[  O2  ] Job finished at 23/01/2024 03:34:01 done in 3m 57s
+[---> Error  VAR  ] Unable to update channel Sky News International
+[---> Error  VAR  ] Current culture: en-GB
+[---> Error  VAR  ] time parsing error : String '' was not recognized as a valid DateTime.
+[---> Error  VAR  ] nextstartdatetime time scrubbed : 
+[---> Error  VAR  ] computer date/time format: 23/01/2024 03:45:43
+[---> Error  VAR  ] Unable to update channel Arirang TV HD
+[---> Error  VAR  ] Current culture: en-GB
+[---> Error  VAR  ] time parsing error : String '' was not recognized as a valid DateTime.
+[---> Error  VAR  ] nextstartdatetime time scrubbed : 
+[---> Error  VAR  ] computer date/time format: 23/01/2024 03:46:21
+[---> Error  VAR  ] Unable to update channel NHK World TV
+[---> Error  VAR  ] Current culture: en-GB
+[---> Error  VAR  ] time parsing error : String '' was not recognized as a valid DateTime.
+[---> Error  VAR  ] nextstartdatetime time scrubbed : 
+[---> Error  VAR  ] computer date/time format: 23/01/2024 03:48:37
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[---> Error  VAR  ] no shows in indexpage!
+[  VAR  ] Job finished at 23/01/2024 03:51:42 done in 6m 36s
+[  M3  ] Job finished at 23/01/2024 04:07:04 done in 6m 0s
+[---> Error  M2  ] no shows in indexpage!
+[  M2  ] Job finished at 23/01/2024 04:15:54 done in 3m 50s
+[  M1  ] Job finished at 23/01/2024 04:27:58 done in 4m 53s
+[  DEP  ] Job finished at 23/01/2024 04:36:25 done in 2m 20s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 23/01/2024 04:45:25 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 23/01/2024 04:45:55 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 23/01/2024 04:46:30 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 23/01/2024 04:46:50 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 23/01/2024 04:47:11 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 23/01/2024 04:47:34 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 23/01/2024 04:47:56 done in 7s
+        [  REX -> O1  ] Job (rex) finished at 23/01/2024 04:48:18 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 23/01/2024 04:48:41 done in 7s
+        [  REX -> POR  ] Job (rex) finished at 23/01/2024 04:48:58 done in 4s
+        [  REX -> FRA  ] Job (rex) finished at 23/01/2024 04:49:16 done in 5s
+        [  REX -> GER  ] Job (rex) finished at 23/01/2024 04:49:37 done in 6s
+            <--- Subiendo xmls 23/01/2024 04:49 --->
+[  M3  ] Job finished at 23/01/2024 08:07:50 done in 6m 45s
+[---> Error  M2  ] no shows in indexpage!
+[  M2  ] Job finished at 23/01/2024 08:16:05 done in 4m 0s
+[---> Error  M1  ] error downloading page : TimeOut (10 sec)
+[---> Error  M1  ] retry 1 of 2 times
+[  M1  ] Job finished at 23/01/2024 08:29:13 done in 6m 8s
+[  DEP  ] Job finished at 23/01/2024 08:37:59 done in 3m 54s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 23/01/2024 08:45:25 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 23/01/2024 08:45:55 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 23/01/2024 08:46:31 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 23/01/2024 08:46:50 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 23/01/2024 08:47:11 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 23/01/2024 08:47:34 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 23/01/2024 08:47:56 done in 7s
+        [  REX -> O1  ] Job (rex) finished at 23/01/2024 08:48:19 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 23/01/2024 08:48:41 done in 7s
+        [  REX -> POR  ] Job (rex) finished at 23/01/2024 08:48:58 done in 4s
+        [  REX -> FRA  ] Job (rex) finished at 23/01/2024 08:49:16 done in 5s
+        [  REX -> GER  ] Job (rex) finished at 23/01/2024 08:49:37 done in 6s
+            <--- Subiendo xmls 23/01/2024 08:49 --->
+    [  CLI  ] LaLiga+ BARES · Job finished at 23/01/2024 10:25
+    [  CLI  ] LaLiga TV BAR · Job finished at 23/01/2024 10:25
+    [  CLI  ] LaLiga TV BAR 2 · Job finished at 23/01/2024 10:25
+    [  CLI  ] LaLiga TV BAR 3 · Job finished at 23/01/2024 10:25
+    [  CLI  ] LaLiga TV BAR 4 · Job finished at 23/01/2024 10:25
+    [  CLI  ] DAZN BAR 1 · Job finished at 23/01/2024 10:25
+    [  CLI  ] DAZN BAR 2 · Job finished at 23/01/2024 10:25
+    [  CLI  ] Moto ADV · Job finished at 23/01/2024 10:25
+    [  CLI  ] DBike · Job finished at 23/01/2024 10:25
+    [  CLI  ] Iberalia pesca · Job finished at 23/01/2024 10:25
+    [  CLI  ] Iberalia caza · Job finished at 23/01/2024 10:25
+    [  CLI  ] Torolé TV · Job finished at 23/01/2024 10:25
+    [  CLI  ] Global Telenovelas · Job finished at 23/01/2024 10:25
+    [  CLI  ] Global Tendencias · Job finished at 23/01/2024 10:25
+    [  CLI  ] Fight Time · Job finished at 23/01/2024 10:25
+    [  CLI  ] CyL7 · Job finished at 23/01/2024 10:26
+    [  CLI  ] CyL8 · Job finished at 23/01/2024 10:26
+    [  CLI  ] Montilla TV · Job finished at 23/01/2024 10:26
+    [  CLI  ] Vivir Torredelcampo TV · Job finished at 23/01/2024 10:26
+    [  CLI  ] Vicomartele · Job finished at 23/01/2024 10:26
+    [  CLI  ] TV Murciana · Job finished at 23/01/2024 10:26
+    [  CLI  ] Náutica TV · Job finished at 23/01/2024 10:26
+    [  CLI  ] Madinfor TV · Job finished at 23/01/2024 10:26
+    [  CLI  ] Antena Motor · Job finished at 23/01/2024 10:26
+    [  ZAP  ] Escapa TV · Job finished at 23/01/2024 10:26
+    [  ZAP  ] REKTV · Job finished at 23/01/2024 10:26
+    [  ZAP  ] tlnovelas · Job finished at 23/01/2024 10:26
+    [  ZAP  ] PTV Malaga · Job finished at 23/01/2024 10:26
+    [  ZAP  ] PTV Cordoba · Job finished at 23/01/2024 10:26
+    [  ZAP  ] PTV Granada · Job finished at 23/01/2024 10:26
+    [  ZAP  ] PTV Sevilla · Job finished at 23/01/2024 10:26
+    [  ZAP  ] PTV Linares · Job finished at 23/01/2024 10:26
+    [  ZAP  ] PTV Almeria · Job finished at 23/01/2024 10:26
+    [  MAN  ] fef · Job finished at 23/01/2024 10:26
+    [  MAN  ] ligaf · Job finished at 23/01/2024 10:26
+      [  TIV  ] laligainside · Job finished at 23/01/2024 10:35:17 done in 2s
+      [  TIV  ] laligaplus · Job finished at 23/01/2024 10:35:27 done in 1s
+      [  TIV  ] lamediainglesa · Job finished at 23/01/2024 10:35:45 done in 9s
+      [  TIV  ] mundotoro · Job finished at 23/01/2024 10:35:59 done in 5s
+      [  TIV  ] fueltv · Job finished at 23/01/2024 10:36:28 done in 20s
+      [  TIV  ] mmatv · Job finished at 23/01/2024 10:36:45 done in 8s
+      [  TIV  ] THEJUMPLIVE · Job finished at 23/01/2024 10:37:55 done in 1m 1s
+      [  TIV  ] happitv · Job finished at 23/01/2024 10:38:34 done in 30s
+      [  TIV  ] sin_filtros · Job finished at 23/01/2024 10:39:28 done in 44s
+      [  TIV  ] WATERBEAR · Job finished at 23/01/2024 10:39:44 done in 7s
+      [  TIV  ] trace_brazuca · Job finished at 23/01/2024 10:40:03 done in 9s
+      [  TIV  ] QELLO · Job finished at 23/01/2024 10:40:14 done in 2s
+      [  TIV  ] now90s · Job finished at 23/01/2024 10:40:26 done in 4s
+      [  TIV  ] now70s · Job finished at 23/01/2024 10:40:38 done in 3s
+      [  TIV  ] now80s · Job finished at 23/01/2024 10:40:50 done in 3s
+      [  TIV  ] JAZZ · Job finished at 23/01/2024 10:41:11 done in 12s
+      [  TIV  ] azcinema · Job finished at 23/01/2024 10:41:25 done in 4s
+      [  TIV  ] azclic · Job finished at 23/01/2024 10:41:50 done in 16s
+      [  TIV  ] azcorazon · Job finished at 23/01/2024 10:42:03 done in 4s
+      [  TIV  ] aztecainternacional · Job finished at 23/01/2024 10:42:18 done in 6s
+      [  TIV  ] 13cultura · Job finished at 23/01/2024 10:42:41 done in 14s
+      [  TIV  ] 13entretencion · Job finished at 23/01/2024 10:43:00 done in 10s
+      [  TIV  ] film_and_co · Job finished at 23/01/2024 10:43:14 done in 5s
+      [  TIV  ] FR_NOVELAS · Job finished at 23/01/2024 10:43:31 done in 8s
+      [  TIV  ] FRIKI · Job finished at 23/01/2024 10:43:44 done in 4s
+      [  TIV  ] lacorriente · Job finished at 23/01/2024 10:43:57 done in 3s
+      [  TIV  ] lovenature · Job finished at 23/01/2024 10:44:14 done in 8s
+      [  TIV  ] lovewine · Job finished at 23/01/2024 10:44:32 done in 9s
+      [  TIV  ] lovetvtrailers · Job finished at 23/01/2024 10:44:59 done in 18s
+      [  TIV  ] oficios_perdidos · Job finished at 23/01/2024 10:45:36 done in 28s
+      [  TIV  ] el_pais · Job finished at 23/01/2024 10:46:04 done in 18s
+      [  TIV  ] elconfidencial · Job finished at 23/01/2024 10:46:30 done in 17s
+      [  TIV  ] nesting · Job finished at 23/01/2024 10:46:53 done in 13s
+      [  TIV  ] ADU05 · Job finished at 23/01/2024 10:47:06 done in 4s
+      [  TIV  ] ADU06 · Job finished at 23/01/2024 10:47:18 done in 3s
+      [  TIV  ] satenclassy · Job finished at 23/01/2024 10:47:30 done in 3s
+      [  TIV  ] satentitanes · Job finished at 23/01/2024 10:47:42 done in 3s
+      [  TIV  ] satenluxury · Job finished at 23/01/2024 10:47:54 done in 3s
+      [  TIV  ] saten100espanol · Job finished at 23/01/2024 10:48:07 done in 3s
+[  O1  ] Job finished at 23/01/2024 11:17:55 done in 2m 51s
+[  O2  ] Job finished at 23/01/2024 11:33:59 done in 3m 54s
+[---> Error  VAR  ] Unable to update channel Sky News International
+[---> Error  VAR  ] Current culture: en-GB
+[---> Error  VAR  ] time parsing error : String '' was not recognized as a valid DateTime.
+[---> Error  VAR  ] nextstartdatetime time scrubbed : 
+[---> Error  VAR  ] computer date/time format: 23/01/2024 11:45:39
+[---> Error  VAR  ] Unable to update channel Arirang TV HD
+[---> Error  VAR  ] Current culture: en-GB
+[---> Error  VAR  ] time parsing error : String '' was not recognized as a valid DateTime.
+[---> Error  VAR  ] nextstartdatetime time scrubbed : 
+[---> Error  VAR  ] computer date/time format: 23/01/2024 11:46:17
+[---> Error  VAR  ] Unable to update channel NHK World TV
+[---> Error  VAR  ] Current culture: en-GB
+[---> Error  VAR  ] time parsing error : String '' was not recognized as a valid DateTime.
+[---> Error  VAR  ] nextstartdatetime time scrubbed : 
+[---> Error  VAR  ] computer date/time format: 23/01/2024 11:48:41
+[  VAR  ] Job finished at 23/01/2024 11:52:05 done in 7m 0s
+[  M3  ] Job finished at 23/01/2024 12:05:13 done in 4m 8s
+[---> Error  M2  ] no shows in indexpage!
+[  M2  ] Job finished at 23/01/2024 12:14:20 done in 2m 15s
+[---> Error  M1  ] error downloading page : TimeOut (10 sec)
+[---> Error  M1  ] retry 1 of 2 times
+[  M1  ] Job finished at 23/01/2024 12:26:45 done in 3m 40s
+[  DEP  ] Job finished at 23/01/2024 12:36:08 done in 2m 2s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 23/01/2024 12:45:25 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 23/01/2024 12:45:55 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 23/01/2024 12:46:31 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 23/01/2024 12:46:50 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 23/01/2024 12:47:12 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 23/01/2024 12:47:35 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 23/01/2024 12:47:58 done in 8s
+        [  REX -> O1  ] Job (rex) finished at 23/01/2024 12:48:21 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 23/01/2024 12:48:44 done in 8s
+        [  REX -> POR  ] Job (rex) finished at 23/01/2024 12:49:01 done in 4s
+        [  REX -> FRA  ] Job (rex) finished at 23/01/2024 12:49:19 done in 5s
+        [  REX -> GER  ] Job (rex) finished at 23/01/2024 12:49:40 done in 6s
+            <--- Subiendo xmls 23/01/2024 12:49 --->
+    [  CLI  ] LaLiga+ BARES · Job finished at 23/01/2024 15:25
+    [  CLI  ] LaLiga TV BAR · Job finished at 23/01/2024 15:25
+    [  CLI  ] LaLiga TV BAR 2 · Job finished at 23/01/2024 15:25
+    [  CLI  ] LaLiga TV BAR 3 · Job finished at 23/01/2024 15:25
+    [  CLI  ] LaLiga TV BAR 4 · Job finished at 23/01/2024 15:25
+    [  CLI  ] DAZN BAR 1 · Job finished at 23/01/2024 15:25
+    [  CLI  ] DAZN BAR 2 · Job finished at 23/01/2024 15:25
+    [  CLI  ] Moto ADV · Job finished at 23/01/2024 15:25
+    [  CLI  ] DBike · Job finished at 23/01/2024 15:25
+    [  CLI  ] Iberalia pesca · Job finished at 23/01/2024 15:25
+    [  CLI  ] Iberalia caza · Job finished at 23/01/2024 15:25
+    [  CLI  ] Torolé TV · Job finished at 23/01/2024 15:25
+    [  CLI  ] Global Telenovelas · Job finished at 23/01/2024 15:26
+    [  CLI  ] Global Tendencias · Job finished at 23/01/2024 15:26
+    [  CLI  ] Fight Time · Job finished at 23/01/2024 15:26
+    [  CLI  ] CyL7 · Job finished at 23/01/2024 15:26
+    [  CLI  ] CyL8 · Job finished at 23/01/2024 15:26
+    [  CLI  ] Montilla TV · Job finished at 23/01/2024 15:26
+    [  CLI  ] Vivir Torredelcampo TV · Job finished at 23/01/2024 15:26
+    [  CLI  ] Vicomartele · Job finished at 23/01/2024 15:26
+    [  CLI  ] TV Murciana · Job finished at 23/01/2024 15:26
+    [  CLI  ] Náutica TV · Job finished at 23/01/2024 15:26
+    [  CLI  ] Madinfor TV · Job finished at 23/01/2024 15:26
+    [  CLI  ] Antena Motor · Job finished at 23/01/2024 15:27
+    [  ZAP  ] Escapa TV · Job finished at 23/01/2024 15:27
+    [  ZAP  ] REKTV · Job finished at 23/01/2024 15:27
+    [  ZAP  ] tlnovelas · Job finished at 23/01/2024 15:27
+    [  ZAP  ] PTV Malaga · Job finished at 23/01/2024 15:27
+    [  ZAP  ] PTV Cordoba · Job finished at 23/01/2024 15:27
+    [  ZAP  ] PTV Granada · Job finished at 23/01/2024 15:27
+    [  ZAP  ] PTV Sevilla · Job finished at 23/01/2024 15:27
+    [  ZAP  ] PTV Linares · Job finished at 23/01/2024 15:27
+    [  ZAP  ] PTV Almeria · Job finished at 23/01/2024 15:27
+    [  MAN  ] fef · Job finished at 23/01/2024 15:27
+    [  MAN  ] ligaf · Job finished at 23/01/2024 15:27
+      [  TIV  ] laligainside · Job finished at 23/01/2024 15:35:18 done in 2s
+      [  TIV  ] laligaplus · Job finished at 23/01/2024 15:35:28 done in 1s
+      [  TIV  ] lamediainglesa · Job finished at 23/01/2024 15:35:45 done in 8s
+      [  TIV  ] mundotoro · Job finished at 23/01/2024 15:35:59 done in 4s
+      [  TIV  ] fueltv · Job finished at 23/01/2024 15:36:28 done in 20s
+      [  TIV  ] mmatv · Job finished at 23/01/2024 15:36:45 done in 7s
+      [  TIV  ] THEJUMPLIVE · Job finished at 23/01/2024 15:37:52 done in 58s
+      [  TIV  ] happitv · Job finished at 23/01/2024 15:38:33 done in 32s
+      [  TIV  ] sin_filtros · Job finished at 23/01/2024 15:39:24 done in 42s
+      [  TIV  ] WATERBEAR · Job finished at 23/01/2024 15:39:40 done in 6s
+      [  TIV  ] trace_brazuca · Job finished at 23/01/2024 15:39:58 done in 9s
+      [  TIV  ] QELLO · Job finished at 23/01/2024 15:40:09 done in 2s
+      [  TIV  ] now90s · Job finished at 23/01/2024 15:40:22 done in 4s
+      [  TIV  ] now70s · Job finished at 23/01/2024 15:40:34 done in 3s
+      [  TIV  ] now80s · Job finished at 23/01/2024 15:40:46 done in 3s
+      [  TIV  ] JAZZ · Job finished at 23/01/2024 15:41:07 done in 12s
+      [  TIV  ] azcinema · Job finished at 23/01/2024 15:41:20 done in 4s
+      [  TIV  ] azclic · Job finished at 23/01/2024 15:41:45 done in 15s
+      [  TIV  ] azcorazon · Job finished at 23/01/2024 15:41:57 done in 4s
+      [  TIV  ] aztecainternacional · Job finished at 23/01/2024 15:42:13 done in 6s
+      [  TIV  ] 13cultura · Job finished at 23/01/2024 15:42:35 done in 13s
+      [  TIV  ] 13entretencion · Job finished at 23/01/2024 15:42:52 done in 9s
+      [  TIV  ] film_and_co · Job finished at 23/01/2024 15:43:08 done in 7s
+      [  TIV  ] FR_NOVELAS · Job finished at 23/01/2024 15:43:25 done in 7s
+      [  TIV  ] FRIKI · Job finished at 23/01/2024 15:43:37 done in 4s
+      [  TIV  ] lacorriente · Job finished at 23/01/2024 15:43:50 done in 4s
+      [  TIV  ] lovenature · Job finished at 23/01/2024 15:44:07 done in 8s
+      [  TIV  ] lovewine · Job finished at 23/01/2024 15:44:26 done in 10s
+      [  TIV  ] lovetvtrailers · Job finished at 23/01/2024 15:44:52 done in 16s
+      [  TIV  ] oficios_perdidos · Job finished at 23/01/2024 15:45:28 done in 28s
+      [  TIV  ] el_pais · Job finished at 23/01/2024 15:45:56 done in 18s
+      [  TIV  ] elconfidencial · Job finished at 23/01/2024 15:46:23 done in 19s
+      [  TIV  ] nesting · Job finished at 23/01/2024 15:46:46 done in 13s
+      [  TIV  ] ADU05 · Job finished at 23/01/2024 15:46:59 done in 4s
+      [  TIV  ] ADU06 · Job finished at 23/01/2024 15:47:11 done in 3s
+      [  TIV  ] satenclassy · Job finished at 23/01/2024 15:47:23 done in 3s
+      [  TIV  ] satentitanes · Job finished at 23/01/2024 15:47:35 done in 3s
+      [  TIV  ] satenluxury · Job finished at 23/01/2024 15:47:47 done in 3s
+      [  TIV  ] saten100espanol · Job finished at 23/01/2024 15:47:59 done in 3s
+[  M3  ] Job finished at 23/01/2024 16:05:18 done in 4m 13s
+[---> Error  M2  ] no shows in indexpage!
+[  M2  ] Job finished at 23/01/2024 16:14:17 done in 2m 12s
+[  M1  ] Job finished at 23/01/2024 16:26:50 done in 3m 45s
+[  DEP  ] Job finished at 23/01/2024 16:36:15 done in 2m 9s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 23/01/2024 16:45:24 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 23/01/2024 16:45:55 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 23/01/2024 16:46:30 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 23/01/2024 16:46:49 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 23/01/2024 16:47:11 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 23/01/2024 16:47:34 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 23/01/2024 16:47:57 done in 8s
+        [  REX -> O1  ] Job (rex) finished at 23/01/2024 16:48:20 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 23/01/2024 16:48:43 done in 8s
+        [  REX -> POR  ] Job (rex) finished at 23/01/2024 16:48:59 done in 4s
+        [  REX -> FRA  ] Job (rex) finished at 23/01/2024 16:49:18 done in 5s
+        [  REX -> GER  ] Job (rex) finished at 23/01/2024 16:49:38 done in 6s
+            <--- Subiendo xmls 23/01/2024 16:49 --->
+[  O1  ] Job finished at 23/01/2024 19:17:26 done in 2m 20s
+[  O2  ] Job finished at 23/01/2024 19:33:24 done in 3m 20s
+[---> Error  VAR  ] error downloading page : TimeOut (10 sec)
+[---> Error  VAR  ] retry 1 of 2 times
+[---> Error  VAR  ] error downloading page : TimeOut (10 sec)
+[---> Error  VAR  ] retry 1 of 2 times
+[  VAR  ] Job finished at 23/01/2024 19:55:40 done in 10m 34s
+[  M3  ] Job finished at 23/01/2024 20:05:15 done in 4m 10s
+[---> Error  M2  ] no shows in indexpage!
+[  M2  ] Job finished at 23/01/2024 20:14:16 done in 2m 12s
+[  M1  ] Job finished at 23/01/2024 20:26:57 done in 3m 52s
+[  DEP  ] Job finished at 23/01/2024 20:36:16 done in 2m 11s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 23/01/2024 20:45:25 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 23/01/2024 20:45:55 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 23/01/2024 20:46:31 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 23/01/2024 20:46:50 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 23/01/2024 20:47:12 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 23/01/2024 20:47:35 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 23/01/2024 20:47:58 done in 8s
+        [  REX -> O1  ] Job (rex) finished at 23/01/2024 20:48:21 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 23/01/2024 20:48:44 done in 8s
+        [  REX -> POR  ] Job (rex) finished at 23/01/2024 20:49:01 done in 4s
+        [  REX -> FRA  ] Job (rex) finished at 23/01/2024 20:49:19 done in 5s
+        [  REX -> GER  ] Job (rex) finished at 23/01/2024 20:49:40 done in 6s
+            <--- Subiendo xmls 23/01/2024 20:49 --->
